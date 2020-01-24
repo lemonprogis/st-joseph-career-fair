@@ -39,3 +39,12 @@ I"ll usually sign off around 5 - 6 to spend time with family and unwind. Usually
 * [Middle to High School Tutorials](https://code.org/student/middle-high)
 * [Scratch: Create stories, games, and animations](https://scratch.mit.edu/)
 * [Python Coding for Youth](https://www.udemy.com/course/teach-your-kids-to-code/)
+
+### About Me
+
+![Ed Briggler](https://avatars1.githubusercontent.com/u/1834551?s=460&v=4)
+
+* **Ed Briggler**
+* St. Joseph, Class of 2002
+* [LinkedIn](https://www.linkedin.com/in/edwardbriggler/)
+* [Github](https://github.com/lemonprogis)
