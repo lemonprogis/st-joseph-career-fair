@@ -8,7 +8,7 @@ The need for software developers (engineers) is projected to grow [21 percent fr
 
 ### Education
 
-Get a bachelors degree in Computer Science, Management Information Sytems, or Geographic Information Systems are usually requirements when applying for jobs. In addition, look for internship opportunity's to persue while in school. 
+Getting a bachelors degree in Computer Science, Management Information Sytems, or Geographic Information Systems are usually requirements when applying for jobs. In addition, look for internship opportunity's to persue while in school. 
 
 ### Salary 
 Pay is fairly high for [Software Developers](https://money.usnews.com/careers/best-jobs/software-developer/salary) with the average from 2018 being $103,620.
@@ -34,3 +34,8 @@ Software development moves so rapidly, having learning time is an integral part 
 I"ll usually sign off around 5 - 6 to spend time with family and unwind. Usually I may fire up my laptop if a problem needs assistance or if I have something in my head I need to get down.  
 
 ## Resources
+
+* [Minecraft Hour of Code Tutorials](https://code.org/minecraft)
+* [Middle to High School Tutorials](https://code.org/student/middle-high)
+* [Scratch: Create stories, games, and animations](https://scratch.mit.edu/)
+* [Python Coding for Youth](https://www.udemy.com/course/teach-your-kids-to-code/)
