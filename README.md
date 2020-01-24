@@ -1,37 +1,36 @@
-## St Joseph Career Fair
+Hey thanks for coming by! Hope this page gets you interested in becoming a software engineer.
 
-You can use the [editor on GitHub](https://github.com/lemonprogis/st-joseph-career-fair/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Job Outlook
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The need for software developers (engineers) is projected to grow [21 percent from 2018 - 2028](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-6). With the ever growing need for new applications across multiple devices to modernizing of different industries, these skill sets are in demand. 
 
-### Markdown
+![Image](images/job_outlook.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+Get a bachelors degree in Computer Science, Management Information Sytems, or Geographic Information Systems are usually requirements when applying for jobs. In addition, look for internship opportunity's to persue while in school. 
 
-# Header 1
-## Header 2
-### Header 3
+### Salary 
+Pay is fairly high for [Software Developers](https://money.usnews.com/careers/best-jobs/software-developer/salary) with the average from 2018 being $103,620.
 
-- Bulleted
-- List
+![Salary Range](images/salary_range.png)
 
-1. Numbered
-2. List
+## Day in the life of a software engineer
 
-**Bold** and _Italic_ and `Code` text
+There is no "average day" as a software engineer. I have tried to put together what a single day on the job might entail.
 
-[Link](url) and ![Image](src)
-```
+### Morning
+Usually will get to the office or login from home between 8 - 9am. Most schedules are flexible due to the nature of our work. We are not based solely on product output. It's a creative process and sometimes it takes a bit to solve the problem at hand. We have a daily stand-up meeting where we all talks about what we did the day before and what we are going to work on today. 
+Where I work, we have embraced [Agile Software Development](https://agilemanifesto.org/). After the meeting, I'll start diving in on a bug that needs to be fixed or work on a feature for the product at hand. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Mid-day
+With a pretty flexible schedule, lunch usually happens whenever it's time for a brain break. I'll usually step out for a walk and lunch with friends/co-workers. After lunch, come back and dive into some more coding and try to get into a good flow state.
 
-### Jekyll Themes
+### Mid-afternoon
+Coming out of a good flow state means, time for a break! I like play a little guitar or games to unwind a bit before firing back up. I'll usually spend the rest of the day working on some learning and proof of concepts to get our product to the next level technologically. 
+Software development moves so rapidly, having learning time is an integral part of your day.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lemonprogis/st-joseph-career-fair/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Evening
+I"ll usually sign off around 5 - 6 to spend time with family and unwind. Usually I may fire up my laptop if a problem needs assistance or if I have something in my head I need to get down.  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Resources
