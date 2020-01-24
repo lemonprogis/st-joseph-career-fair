@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## St Joseph Career Fair
 
 You can use the [editor on GitHub](https://github.com/lemonprogis/st-joseph-career-fair/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
