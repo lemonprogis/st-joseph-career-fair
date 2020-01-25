@@ -2,7 +2,14 @@ Hey thanks for coming by! Hope this page gets you interested in becoming a softw
 
 ## Job Outlook
 
-The need for software developers (engineers) is projected to grow [21 percent from 2018 - 2028](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-6). With the ever growing need for new applications across multiple devices to modernizing of different industries, these skill sets are in demand. 
+The need for software developers (engineers) is projected to grow [21 percent from 2018 - 2028](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-6). With the ever growing need for new applications across multiple devices to modernizing of different industries, these skill sets are in demand.
+
+There are so many different types of jobs and companies someone who has the skill set to program can work for. You can choose to work for a Fortune 500 company or a small company. A startup or start your own company. You can work within a tech company or an industry that is modernizing.
+
+You can freelance or have a side hustle, depending on what you are interested in. It's easy to be a full time employee or a contractor. 
+
+Being a software developer/engineer...the world is really your oyster. 
+
 
 ![Image](images/job_outlook.png)
 
@@ -39,6 +46,7 @@ I"ll usually sign off around 5 - 6 to spend time with family and unwind. Usually
 * [Middle to High School Tutorials](https://code.org/student/middle-high)
 * [Scratch: Create stories, games, and animations](https://scratch.mit.edu/)
 * [Python Coding for Youth](https://www.udemy.com/course/teach-your-kids-to-code/)
+* [Free Code Camp](https://www.freecodecamp.org/)
 
 ### About Me
 
